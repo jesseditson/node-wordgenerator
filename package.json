@@ -12,7 +12,9 @@
   "engines": {
     "node": "0.6.x"
   },
-  "dependencies": {},
+  "dependencies": {
+    "fibers": "~0.6.8"
+  },
   "devDependencies": {},
   "optionalDependencies": {}
 }
