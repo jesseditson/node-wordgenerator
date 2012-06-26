@@ -1,0 +1,18 @@
+{
+  "author": "Jesse Ditson <jesse.ditson@gmail.com> (http://jesseditson.com)",
+  "name": "wordgenerator",
+  "description": "Quick and dirty wordlist based word generator for inspiration when naming shit",
+  "version": "0.0.1",
+  "homepage": "http://jesseditson.com",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jesseditson/node-wordgenerator.git"
+  },
+  "main": "wordgenerator.js",
+  "engines": {
+    "node": "0.6.x"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
